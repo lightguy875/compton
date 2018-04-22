@@ -12,5 +12,5 @@ compton path/to/compton.conf -b
 Put this command to initialize with your machine.
 
 # Warning
-Don't use it if your wm or DE have a graphical compositor or your system will be unstable
+Don't use it if your WM or DE have a graphical compositor or your system will be unstable
 
